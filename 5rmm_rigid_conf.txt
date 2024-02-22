@@ -1,0 +1,22 @@
+receptor = 5rmm.rigid.pdbqt
+ligand = ligands.txt
+
+out = output.pdbqt
+
+# Define the search space
+center_x =  -29.691
+center_y = 16.246
+center_z = -21.831
+
+size_x = 40
+size_y = 40
+size_z = 40
+
+# Number of output poses per ligand
+num_modes = 10
+
+# Energy range for the search
+energy_range = 3
+
+# Exhaustiveness (amount of computational effort used during a docking experiment, default = 8)
+exhaustiveness=32
