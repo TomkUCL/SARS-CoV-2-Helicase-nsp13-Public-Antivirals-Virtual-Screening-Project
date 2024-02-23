@@ -6,43 +6,17 @@
             "resid": 516,
             "atomname": "NH"
         },
-        "ligandSubstructSMARTS": "[#8]",
+        "ligandSubstructSMARTS": "[#8]O",
         "distance": 4.0
     },
     {
         "receptorAtom":
         {
-            "chain": "",
-            "resid": 907,
-            "atomname": "CD1"
+            "chain": "B",
+            "resid": 486,
+            "atomname": "HB1"
         },
-        "ligandSubstructSMARTS": "[#7]",
-        "distance": 4.25
-    },
-    {
-        "receptorAtom":
-        {
-            "chain": "",
-            "resid": 896,
-            "atomname": "CD1"
-        },
-        "ligandSubstructSMARTS": "[#7]",
-        "distance": 5.61
-    },
-    {
-        "receptorAtom":
-        {
-            "chain": "",
-            "resid": 868,
-            "atomname": "ND2"
-        },
-        "ligandSubstructSMARTS": "[#6]",
-        "distance": 5.4
-    },
-    {
-        "coordinate": [-28.809999, 68.956001, 21.427000],
-        "ligandSubstructSMARTS": "c1ccccc1S=O",
-        "distance": 3.59,
-        "exclude": true
+        "ligandSubstructSMARTS": "[#8]O",
+        "distance": 4.0
     }
 ]
