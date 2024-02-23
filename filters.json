@@ -2,12 +2,12 @@
     {
         "receptorAtom":
         {
-            "chain": "",
-            "resid": 904,
-            "atomname": "OG"
+            "chain": "B",
+            "resid": 516,
+            "atomname": "NH"
         },
         "ligandSubstructSMARTS": "[#8]",
-        "distance": 2.8
+        "distance": 4.0
     },
     {
         "receptorAtom":
